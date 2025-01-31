@@ -65,7 +65,7 @@ Whether you're a farmer, buyer, or administrator, E-HUT is here to make agricult
 
 ## Ready to Get Started?
 
-[Sign Up Now](#) | [Contact Us](#contact)
+[Sign Up Now](#) | [Contact Us](./docs/contact) 
 
 ---
 
